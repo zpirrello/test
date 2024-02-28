@@ -1,0 +1,8 @@
+{
+	"name": "zpirrello/test",
+	"description": "Demonstration of how to use composer within WordPress",
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
